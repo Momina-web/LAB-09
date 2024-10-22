@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+h2{
+    font-family: "Roboto Slab", serif;
+}
+h2 span{
+    font-weight: 300;
+}
+h3{
+    font-family: "Roboto Slab", serif;
+}
+h3 span{
+    font-weight: 300;
+    font-style: italic;
+}
+h4{
+    font-size: larger;
+    font-family: "Roboto Slab", serif;
+}
+h4 span{
+    text-decoration: underline;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+
+.underline-text {
+    text-decoration: underline;
+}
+.first-div {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue; /* You can choose any color you like */
+    border-width: 3px;
+    border-color: darkblue; /* You can choose any color you like */
+    border-style: solid;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+.normal-para {
+    color: green;
+}
