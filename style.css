@@ -36,6 +36,14 @@ h4 span{
 .underline-text {
     text-decoration: underline;
 }
+gmail-link {
+    color: #1a73e8;
+    text-decoration: none;
+    font-size: 18px;
+}
+.gmail-link:hover {
+    text-decoration: underline;
+}
 .first-div {
     width: 500px;
     height: 500px;
@@ -50,5 +58,5 @@ h4 span{
 }
 
 .normal-para {
-    color: green;
+    color: rgb(128, 0, 79);
 }
